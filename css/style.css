@@ -1,4 +1,5 @@
 img {
-    max-width : 80%;
-    display: block;
+  max-width: 80%;
+  display: block;
+  margin: auto;
 }
